@@ -6,3 +6,4 @@ numero2 = float(input("Ingrese el segundo numero: "))
 suma = numero1 + numero2
 
 print("La suma es:", suma)
+print("Programa ejecutado correctamente")
